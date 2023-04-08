@@ -16,3 +16,4 @@ arduino_tft_espi esp32.zip  is the  board driver
 
 library for the  board http://pan.jczn1688.com/directlink/1/ESP32%20module/7.0inch_ESP32-8048S070.zip?spm=a2g0o.detail.1000023.1.40bd2935xWdgGx&file=7.0inch_ESP32-8048S070.zip
 
+you can edit the ino sketch easy enough for the buttons just do that in ui.c  change the names to what ever you like 
