@@ -12,7 +12,7 @@ arduino_tft_espi esp32.zip  is the  board driver
 
 ![image](https://github.com/krywenko/ESP32-8048S070_smarthome_ai/blob/main/130d40d4bd2c4a89ad5332a2c598fcebdae1ff97_2_1035x687.jpeg)
 
-![video](https://github.com/krywenko/ESP32-8048S070_smarthome_ai/blob/main/339849796_8942250472516673_1893327881972569481_n.mp4)
+![video](https://raw.githubusercontent.com/krywenko/ESP32-8048S070_smarthome_ai/main/339849796_8942250472516673_1893327881972569481_n.mp4)
 
 library for the  board http://pan.jczn1688.com/directlink/1/ESP32%20module/7.0inch_ESP32-8048S070.zip?spm=a2g0o.detail.1000023.1.40bd2935xWdgGx&file=7.0inch_ESP32-8048S070.zip
 
